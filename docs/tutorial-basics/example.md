@@ -4,5 +4,4 @@ sidebar_position: 7
 
 # Example
 
-This is an **example** page. 
-
+This is an **example** page.
